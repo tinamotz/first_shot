@@ -11,8 +11,11 @@
 }
 
 .jumbotron {
-  background-image:url('http://goo.gl/04j7Nn');
-  height: 500px;
+  background-image:url('images/worldmapwatercolor.jpg');
+  max-width: 1280px;
+  height: 800px;
+  margin-left: auto;
+  margin-right: auto;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -23,7 +26,7 @@
 }
 
 .jumbotron h1 {
-  color: #fff;
+  color: #fff8dc;
   font-size: 48px;  
   font-family: 'Shift', sans-serif;
   font-weight: bold;
@@ -31,7 +34,7 @@
 
 .jumbotron p {
   font-size: 20px;
-  color: #fff;
+  color: #dc9456;
 }
 
 .learn-more {
