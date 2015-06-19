@@ -34,7 +34,10 @@
 
 .jumbotron p {
   color: #fff8dc;
-  font-size: 20px;
+  font-size: 25px;
+  font-family: 'Alegreya Sans', sans-serif;
+  font-weight: 400;
+  text-shadow: 0 1px 8px rgba(0, 0, 0, 0.6);
 }
 
 .learn-more {
